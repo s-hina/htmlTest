@@ -12,3 +12,13 @@
     background-color: silver;
     color: white;
 }
+
+.box-1 {
+    float: left;
+}
+
+.box-2 {
+    float: left;
+    font-size: 17px;
+    background-color: gray;
+}
