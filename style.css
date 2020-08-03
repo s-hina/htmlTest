@@ -1,0 +1,14 @@
+.t-header {
+    background-color: black;
+    color: white;
+}
+
+#t-explanation {
+    background-color: grey;
+    color: black;
+}
+
+.t-data {
+    background-color: silver;
+    color: white;
+}
